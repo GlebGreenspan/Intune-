@@ -1,4 +1,3 @@
-<#  Creator @gwblok - GARYTOWN.COM
     Used to download BIOS Updates from HP
     This Script was created to build a BIOS Update Package. 
     Future Scripts based on this will be one that gets the Model / Product info from the machine it's running on and pull down the correct BIOS and run the Updater
