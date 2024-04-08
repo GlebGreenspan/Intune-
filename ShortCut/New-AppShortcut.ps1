@@ -1,5 +1,5 @@
 Function New-AppShortcut {
-    <# Gary Blok | @gwblok | GARYTOWN.COM | 2023.06.02
+    <# 
     Creates a shortcut for the exe you provide
 
     
