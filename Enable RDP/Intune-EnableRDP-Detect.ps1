@@ -1,4 +1,3 @@
-#Gary Blok | GARYTOWN.COM | @GWBLOK
 #Enable RDP Detect Script
 
 <#
