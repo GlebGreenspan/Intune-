@@ -10,11 +10,6 @@
 .OUTPUTS
     None.
 .NOTES
-    Created by @gwblok
-.LINK
-    https://garytown.com
-.LINK
-    https://www.recastsoftware.com
 .COMPONENT
     --
 .FUNCTIONALITY
@@ -32,7 +27,7 @@
 $ScriptName = "Set-ThisPC-to-name-of-Machine"
 $ScriptVersion = "21.4.9.1"
 $whoami = (whoami).split("\") | Select-Object -Last 1
-$CompanyName = "GARYTOWN"
+$CompanyName = "Intune"
 $LogFolder = "$env:ProgramData\$CompanyName"
 $LogFilePath = "$LogFolder\Logs"
 if (!(Test-path -Path "$LogFilePath")){New-Item -Path "$LogFilePath" -ItemType Directory -Force | Out-Null}
