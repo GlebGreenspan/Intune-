@@ -1,5 +1,3 @@
-<#  Gary Blok | HP Inc | @gwblok | GARYTOWN.COM
-
 HP USB-C G5 Essential Dock Updater Script
 
 This script will test for Dock connected, if HP USB-C G5 Essential Dock then it will update the firmware based on the $URL specified below
