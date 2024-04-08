@@ -1,5 +1,3 @@
-<# Gary Blok | @gwblok | GARYTOWN.COM
-
 Just a small snip to check for updated Firmware for the HP Docks using HPCMSL
 Not all Docks show up in HPCMSL, so the WebURLs are listed for each dock for manual lookups too.
 
