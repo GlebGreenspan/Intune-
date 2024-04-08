@@ -10,9 +10,6 @@
 .OUTPUTS
     None.
 .NOTES
-    Created by @gwblok
-.LINK
-    https://garytown.com
 .COMPONENT
     --
 .FUNCTIONALITY
