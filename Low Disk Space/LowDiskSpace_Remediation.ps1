@@ -1,5 +1,3 @@
-  
-<#GARYTOWN.COM @GWBLOK
 Low Disk Space Remediation Script & JIRA Task Creation
 This script will try several different disk cleanup items and checking in between section before continuing.
 You can add more cleanup items in if you like by replicating and modifying an  "if ((Get-FreeSpace) -lt $MinFreeSpace)" Section
