@@ -1,0 +1,1 @@
+﻿$Path = “$env:USERPROFILE\Desktop\shortcut Windows Mail.lnk”
