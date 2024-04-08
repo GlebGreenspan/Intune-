@@ -1,5 +1,3 @@
-<# Gary Blok | @gwblok | GARYTOWN.COM | RecastSoftware.com
-
 Installs or Updated HPCMSL: https://developers.hp.com/hp-client-management/doc/client-management-script-library
 
 Checks latest version of HPCMSL available from HP.com and compares against machine it's running on.
