@@ -1,7 +1,3 @@
-<#
-Version: 1.0
-Author: 
-Tom Coleman
 Script: Detect SMB Signing
 Description: Background https://learn.microsoft.com/en-GB/troubleshoot/windows-server/networking/overview-server-message-block-signing
 Hint: This is a community script. There is no guarantee for this. Please check thoroughly before running.
