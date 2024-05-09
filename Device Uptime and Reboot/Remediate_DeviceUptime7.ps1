@@ -1,10 +1,3 @@
-﻿<#
-Version: 1.0
-Author: 
-- Joey Verlinden (joeyverlinden.com)
-- Andrew Taylor (andrewstaylor.com)
-- Florian Slazmann (scloud.work)
-- Jannik Reinhard (jannikreinhard.com)
 Script: Remediate_DeviceUptime7
 Description: Checks the device uptime days. If its 7 days or more it shows a windows notification to the user that he should reboot.
 Hint: This is a community script. There is no guarantee for this. Please check thoroughly before running.
