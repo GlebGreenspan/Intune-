@@ -1,10 +1,3 @@
-<#
-Version: 1.0
-Author: 
-- Joey Verlinden (joeyverlinden.com)
-- Andrew Taylor (andrewstaylor.com)
-- Florian Slazmann (scloud.work)
-- Jannik Reinhard (jannikreinhard.com)
 Script: Get-CleanUpDisk
 Description:
 Possible Values:
