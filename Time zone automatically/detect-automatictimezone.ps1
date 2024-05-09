@@ -1,7 +1,3 @@
-<#
-Version: 1.0
-Author: 
-- Adam Gell
 Script: detect-automatictimezone.ps1
 Description: Sets up Automatic Timezone and Time Sync
 Release notes:
