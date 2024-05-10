@@ -21,14 +21,6 @@ All variables must be defines in Azure Automation
 .EXAMPLE
     # Script runs unnatended from Azure Automation - all parameters should be defined in Automation account 
     Monitor-IntuneAppleConnectors.ps1
-
-.NOTES
-    FileName:    Monitor-IntuneAppleConnectors.ps1
-    Author:      Jan Ketil Skanke
-    Contact:     @JankeSkanke
-    Created:     2020-01-04
-    Updated:     2020-01-04
-
     Version history:
     1.0.0 - (2020-01-04) First release
 
