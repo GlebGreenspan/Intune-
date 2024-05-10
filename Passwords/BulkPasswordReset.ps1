@@ -1,11 +1,4 @@
-<#	
-    .NOTES
-    ===========================================================================
-    Created with: 	ISE
-    Created on:   	11/19/2019 1:46 PM
-    Created by:   	Vikas Sukhija
-    Organization: 	
-    Filename:     	BulkPasswordReset.ps1
+Filename:     	BulkPasswordReset.ps1
     ===========================================================================
     .DESCRIPTION
     This will reset the password for BUlk sam accountnames
@@ -125,7 +118,7 @@ catch{
 }
 
 ########################Process users#############################
-$SecurePassword=ConvertTo-SecureString $Password –asplaintext –force
+$SecurePassword=ConvertTo-SecureString $Password â€“asplaintext â€“force
 
 
 $users | ForEach-Object{
