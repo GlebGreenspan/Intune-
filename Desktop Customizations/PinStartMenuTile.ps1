@@ -10,16 +10,7 @@
 
 .EXAMPLE
     .\Add-StartMenuTile.ps1 -ApplicationName "Command prompt"
-
-.NOTES
-    FileName:    Add-StartMenuTile.ps1
-    Author:      Nickolaj Andersen
-    Contact:     @NickolajA
-    Created:     2018-09-18
-    Updated:     2018-09-18
-    Url: https://github.com/SCConfigMgr/Windows/blob/master/Start%20Menu/Add-StartMenuTile.ps1
-
-    Version history:
+Version history:
     1.0.0 - (2018-09-18) Script created
 
     # Oct 2018
