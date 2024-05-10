@@ -31,15 +31,6 @@
     # Install and configure NDES with verbose output:
     .\Install-MSIntuneNDESServer.ps1 -CertificateAuthorityConfig "CA01.domain.com\DOMAIN-CA01-CA" -NDESTemplateName "NDESIntune" -NDESExternalFQDN "ndes-tenantname.msappproxy.net" -RegistrationAuthorityName "Name" -RegistrationAuthorityCompany "CompanyName" -RegistrationAuthorityDepartment "Department" -RegistrationAuthorityCity "City" -Verbose
 
-.NOTES
-    FileName:    Install-MSIntuneNDESServer.ps1
-    Author:      Nickolaj Andersen
-    Contact:     @NickolajA
-    Created:     2018-06-17
-    Updated:     2018-06-17
-    
-    Version history:
-    1.0.0 - (2018-06-17) Script created
 #>
 [CmdletBinding(SupportsShouldProcess=$true)]
 param(
