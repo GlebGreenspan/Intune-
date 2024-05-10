@@ -27,16 +27,6 @@
     # Import all device configuration profiles for all platforms from 'C:\Temp\Intune' into a tenant named 'domain.onmicrosoft.com':
     .\Import-IntuneDeviceConfigurationProfile.ps1 -TenantName "domain.onmicrosoft.com" -Platform "Windows", "iOS", "AndroidEnterprise", "macOS" -Path C:\Temp\Intune -Prefix "CompanyName" -Verbose
 
-.NOTES
-    FileName:    Import-IntuneDeviceConfigurationProfile.ps1
-    Author:      Nickolaj Andersen
-    Contact:     @NickolajA
-    Created:     2019-10-04
-    Updated:     2019-10-04
-
-    Version history:
-    1.0.0 - (2019-10-04) Script created
-
     Required modules:
     AzureAD (Install-Module -Name AzureAD)
     PSIntuneAuth (Install-Module -Name PSIntuneAuth)    
