@@ -29,7 +29,6 @@
 ## (including, without limitation, damages for loss of business profits, business interruption, loss of business information, or other pecuniary
 ## loss) arising out of the use of or inability to use the sample scripts or documentation, even if Microsoft has been advised of the possibility
 ## of such damages.
-## Feedback: neiljohn@microsoft.com
 
 # User Defined variables
 currentVersion=$(curl -LSs "https://armmf.adobe.com/arm-manifests/mac/AcrobatDC/acrobat/current_version.txt" | sed 's/\.//g')
