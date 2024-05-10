@@ -12,3 +12,10 @@ To share system audio in a teams call, you also need to install the Teams Audio 
 
 Scenario
 This script is intended for customers who need to deploy Teams via the Intune Scripting Agent.
+Quick Run
+Classic
+
+sudo /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/microsoft/shell-intune-samples/master/macOS/Apps/Teams/installTeamsClassic.zsh)"
+Teams V2
+
+sudo /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/microsoft/shell-intune-samples/master/macOS/Apps/Teams/installTeamsV2.zsh)"
