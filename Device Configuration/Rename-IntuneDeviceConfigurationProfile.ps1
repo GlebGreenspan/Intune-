@@ -24,17 +24,7 @@
     # Rename all Device Configuration Profiles with a display name that matches 'Win10' with 'W10' in a tenant named 'domain.onmicrosoft.com':
     .\Rename-IntuneDeviceConfigurationProfile.ps1 -TenantName "domain.onmicrosoft.com" -Match "Win10" -Replace "W10" -Verbose
 
-.NOTES
-    FileName:    Rename-IntuneDeviceConfigurationProfile.ps1
-    Author:      Nickolaj Andersen
-    Contact:     @NickolajA
-    Created:     2019-10-15
-    Updated:     2019-10-15
-
-    Version history:
-    1.0.0 - (2019-10-15) Script created
-
-    Required modules:
+Required modules:
     AzureAD (Install-Module -Name AzureAD)
     PSIntuneAuth (Install-Module -Name PSIntuneAuth)    
 #>
