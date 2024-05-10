@@ -5,14 +5,7 @@
 .DESCRIPTION
     Remove existing SCEP device certificate and enroll a new until subject name matches desired configuration.
 
-.NOTES
-    FileName:    Update-SCEPCertificate.ps1
-    Author:      Nickolaj Andersen
-    Contact:     @NickolajA
-    Created:     2019-12-21
-    Updated:     2020-04-24
-
-    Version history:
+Version history:
     1.0.0 - (2019-12-21) Script created
     1.0.1 - (2020-04-24) Added to check for certificate with subject names matching CN=WIN in addition to CN=DESKTOP and CN=LAPTOP
 #>
