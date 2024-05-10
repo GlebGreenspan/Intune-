@@ -7,18 +7,18 @@ Audit Filtering Platform Packet Drop failure:enabled
 Audit Filtering Platform Connection failure:enabled
 Note: it expects that both settings are configured to audit failure events only.
 
-Host firewall reporting in Microsoft Defender for Endpoint
+https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/host-firewall-reporting?view=o365-worldwide
 
 Intune Configuration Policy
 Firewall auditing settings can be configured within the Microsoft Intune Firewall policy Endpoint security | Firewall
 
-Configuration settings / Auditing / Object Access Audit Filtering Platform Connection
-Configuration settings / Auditing / Object Access Audit Filtering Platform Packet Drop
+Configuration settings / https://learn.microsoft.com/en-us/windows/client-management/mdm/policy-csp-audit#objectaccess_auditfilteringplatformconnection
+Configuration settings / https://learn.microsoft.com/en-us/windows/client-management/mdm/policy-csp-audit#objectaccess_auditfilteringplatformpacketdrop
 Intune Compliance Detection Script
-Windows Firewall Auditing
+https://github.com/alexverboon/IntuneCustomCompliance/blob/main/Firewall-Auditing/Windows-ComplianceScript-FirewallAuditing.ps1
 
 Intune Compliance JSON
-Windows Fireall Auditing Compliance Policy
+https://github.com/alexverboon/IntuneCustomCompliance/blob/main/Firewall-Auditing/Windows-CustomCompliance-FirewallAuditing.json
 
 For compliance the expected results are:
 
