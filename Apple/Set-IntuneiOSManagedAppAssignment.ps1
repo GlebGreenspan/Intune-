@@ -25,11 +25,6 @@
 
 .NOTES
     FileName:    Set-IntuneiOSManagedAppAssignment.ps1
-    Author:      Nickolaj Andersen
-    Contact:     @NickolajA
-    Created:     2019-10-01
-    Updated:     2019-10-27
-    
     Version history:
     1.0.0 - (2019-10-01) Script created
     1.0.1 - (2019-10-27) Changed the filter for mobileApps resource to include managed apps too.
