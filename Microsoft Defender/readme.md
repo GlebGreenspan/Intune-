@@ -1,3 +1,4 @@
+macOS DEFENDER
 Microsoft Defender Installation Script
 This script is an example to show how to use https://docs.microsoft.com/en-us/mem/intune/apps/macos-shell-scripts to install applications. In this case the script will download Defender from the Microsoft download servers and then install it onto the Mac.
 
