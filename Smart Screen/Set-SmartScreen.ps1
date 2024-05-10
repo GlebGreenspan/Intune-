@@ -2,13 +2,6 @@
 <#
     .SYNOPSIS
         Enables Windows SmartScreen.
-
-    .NOTES
-        Author: Aaron Parker
-        Twitter: @stealthpuppy
-
-    .LINK
-        https://stealthpuppy.com
 #>
 
 Function Set-RegistryValue {
