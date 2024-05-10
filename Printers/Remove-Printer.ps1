@@ -1,7 +1,3 @@
-<#
-.Synopsis
-Created on:   31/12/2021
-Created by:   Ben Whitmore
 Filename:     Remove-Printer.ps1
 
 powershell.exe -executionpolicy bypass -file .\Remove-Printer.ps1 -PrinterName "Canon Printer Upstairs"
