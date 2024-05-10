@@ -21,7 +21,6 @@
 ## (including, without limitation, damages for loss of business profits, business interruption, loss of business information, or other pecuniary
 ## loss) arising out of the use of or inability to use the sample scripts or documentation, even if Microsoft has been advised of the possibility
 ## of such damages.
-## Feedback: neiljohn@microsoft.com
 
 # User Defined variables
 weburl="https://download.teamviewer.com/download/TeamViewer.dmg?utm_source=google&utm_medium=cpc&utm_campaign=restofeurope%7Cb%7Cpr%7C22%7Caug%7Ctv-core-download-sn%7Cnew%7Ct0%7C0&utm_content=Download&utm_term=teamviewer%20download%20for%20pc&gclid=CjwKCAjw3POhBhBQEiwAqTCuBoH6vpRkT_XoZfZBmZnCDObFZCUUWOdwk2K4AtCeNaRtZ4ygRPLV9RoCTioQAvD_BwE"              # What is the Azure Blob Storage URL?
