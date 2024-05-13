@@ -20,14 +20,7 @@
     # Retrieve a list of associated Azure AD device records based on hardware identifier by specifying a known serial number in Windows Autopilot:
     .\Get-AzureADDeviceRecordsBySerialNumber.ps1 -TenantID "<tenant_id>" -ClientID "<client_id>" -SerialNumber "1234567"
 
-.NOTES
-    FileName:    Get-AzureADDeviceRecordsBySerialNumber.ps1
-    Author:      Nickolaj Andersen
-    Contact:     @NickolajA
-    Created:     2021-03-22
-    Updated:     2021-03-22
-
-    Version history:
+Version history:
     1.0.0 - (2021-03-22) Script created
 #>
 #Requires -Modules "MSAL.PS"
