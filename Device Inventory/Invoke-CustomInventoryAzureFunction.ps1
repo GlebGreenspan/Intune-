@@ -14,14 +14,6 @@ Note the following variables
 $RandomiseCollectionInt - if this is true the randomizer to spread load over X minutes is enabled 
 $RandomizeMinutes - the number of minutes to randomize load over. Max 50 minutes to avoid PR timeouts 
 
-.NOTES
-FileName:    Invoke-CustomInventory.ps1
-Author:      Jan Ketil Skanke
-Contributor: Sandy Zeng / Maurice Daly
-Contact:     @JankeSkanke
-Created:     2021-01-02
-Updated:     2022-15-10 by @JankeSkanke
-
 Version history:
 0.9.0 - (2021 - 01 - 02) Script created
 1.0.0 - (2021 - 01 - 02) Script polished cleaned up.
