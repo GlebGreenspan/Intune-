@@ -26,13 +26,6 @@
     # Update the Group Tag of a multiple devices in an array, with a value of 'GroupTag1':
     .\Set-AutopilotDeviceGroupTag.ps1 -TenantID "tenant.onmicrosoft.com" -ClientID "<guid>" -SerialNumber @("1234567", "2345678") -Value "GroupTag1"
 
-.NOTES
-    FileName:    Set-AutopilotDeviceGroupTag.ps1
-    Author:      Nickolaj Andersen
-    Contact:     @NickolajA
-    Created:     2021-02-21
-    Updated:     2021-02-21
-
     Version history:
     1.0.0 - (2021-02-21) Script created
 #>
