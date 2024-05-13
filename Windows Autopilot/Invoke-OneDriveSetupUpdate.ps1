@@ -12,13 +12,6 @@
 .EXAMPLE
     .\Invoke-OneDriveSetupUpdate.ps1
 
-.NOTES
-    FileName:    Invoke-OneDriveSetupUpdate.ps1
-    Author:      Nickolaj Andersen
-    Contact:     @NickolajA
-    Created:     2021-01-18
-    Updated:     2021-01-18
-
     Version history:
     1.0.0 - (2021-01-18) Script created
 #>
