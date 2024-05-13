@@ -9,9 +9,6 @@ Date: 2016-01-12 (1.0)
 Updated 2016-01-24 (1.1): Author added mail functionality
 Updated 2018-04-09 (1.2): Author added intermidiate download folder, existing definition files are not deleted in the event of failed download.
 
-Acknowledgement: Andre Picker - https://gallery.technet.microsoft.com/scriptcenter/SCEP-Definition-Updates-to-fde57ebf
-
-
  $Destination = Package Share Destination folder 'Root folder'
 
  |- Root folder
@@ -24,9 +21,6 @@ Acknowledgement: Andre Picker - https://gallery.technet.microsoft.com/scriptcent
  $SentFrom = Mail Address of Sender, typícally Administrator
  $SmtpServer = FQDN of Smtp server
 
-
-
-Modified by Gary Blok, Recast Software
 Updated 2021.04.21
  - Modified to use native CM Commandlets
  - Added Cmtrace Log function and logging
