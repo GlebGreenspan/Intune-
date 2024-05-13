@@ -11,11 +11,7 @@
     None.
 .OUTPUTS
     None.
-.NOTES
-    Script Created by @gwblok
-    Home Updater by Patch My PC | Justin Chalfant | @SetupConfigMgr
 .LINK
-    https://garytown.com
     https://patchmypc.com/home-updater
 .COMPONENT
     --
