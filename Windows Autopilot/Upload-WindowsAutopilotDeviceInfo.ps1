@@ -47,13 +47,6 @@
     # Gather device hash from local computer and upload to Autopilot using Intune Graph API's with a given group tag as 'AADUserDriven' and 'somone@domain.com' as the assigned user:
     .\Upload-WindowsAutopilotDeviceInfo.ps1 -TenantID "tenant.onmicrosoft.com" -GroupTag "AADUserDriven" -UserPrincipalName "someone@domain.com"
 
-.NOTES
-    FileName:    Upload-WindowsAutopilotDeviceInfo.ps1
-    Author:      Nickolaj Andersen
-    Contact:     @NickolajA
-    Created:     2019-03-21
-    Updated:     2023-06-07
-    
     Version history:
     1.0.0 - (2019-03-21) Script created.
     1.1.0 - (2019-10-29) Added support for specifying the primary user assigned to the uploaded Autopilot device as well as renaming the OrderIdentifier parameter to GroupTag. Thanks to @Stgrdk for his contributions. Switched from Get-CimSession to Get-WmiObject to get device details from WMI.
