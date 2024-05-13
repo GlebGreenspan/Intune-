@@ -1,5 +1,5 @@
 <#
-Disable Sleep while plugged in - using in GARYTOWN Lab
+Disable Sleep while plugged in 
 #>
 
 #Values in Minutes
@@ -8,9 +8,7 @@ $DCValue = 10
 
 #region functions
 <#
-	Gary Blok | GARYTOWN.COM | @gwblok
-
-    .SYNOPSIS
+	.SYNOPSIS
 	Get & Set Sleep After Settings
 
 	.PARAMETER Minutes
