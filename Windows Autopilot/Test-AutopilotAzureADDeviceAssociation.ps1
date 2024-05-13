@@ -30,13 +30,6 @@
 .EXAMPLE
     .\Test-AutopilotAzureADDeviceAssociation.ps1 -TenantID "tenantname.onmicrosoft.com"
 
-.NOTES
-    FileName:    Test-AutopilotAzureADDeviceAssociation.ps1
-    Author:      Nickolaj Andersen
-    Contact:     @NickolajA
-    Created:     2021-05-06
-    Updated:     2021-05-06
-
     Version history:
     1.0.0 - (2021-05-06) Script created
 #>
