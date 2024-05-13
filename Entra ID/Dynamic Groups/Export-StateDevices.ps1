@@ -3,12 +3,6 @@
     .SYNOPSIS
         List users and devices including last login time stamp.
 
-    .NOTES
-        Author: Aaron Parker
-        Twitter: @stealthpuppy
-
-    .LINK
-        https://stealthpuppy.com
 #>
 [CmdletBinding(SupportsShouldProcess, ConfirmImpact = 'Low')]
 Param ()
