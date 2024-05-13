@@ -9,14 +9,6 @@
 .EXAMPLE
     Invoke-CustomInventory.ps1 (Required to run as System or Administrator)      
 
-.NOTES
-    FileName:    Invoke-CustomInventory.ps1
-    Author:      Jan Ketil Skanke
-    Contributor: Sandy Zeng / Maurice Daly
-    Contact:     @JankeSkanke
-    Created:     2021-01-Feb
-    Updated:     2021-Nov-07
-
     Version history:
     0.9.0 - (2021-01-02) Script created
     1.0.0 - (2021-01-02) Script polished cleaned up. 
