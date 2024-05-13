@@ -10,13 +10,6 @@
 .PARAMETER AzureMapsSharedKey
     Specify the Azure Maps API shared key available under the Authentication blade of the resource in Azure.
 
-.NOTES
-    FileName:    Set-WindowsTimeZone.ps1
-    Author:      Nickolaj Andersen
-    Contact:     @NickolajA
-    Created:     2020-05-19
-    Updated:     2022-01-28
-
     Version history:
     1.0.0 - (2020-05-19) - Script created
     1.0.1 - (2020-05-23) - Added registry key presence check for lfsvc configuration and better handling of selecting a single Windows time zone when multiple objects with different territories where returned (thanks to @jgkps for reporting)
