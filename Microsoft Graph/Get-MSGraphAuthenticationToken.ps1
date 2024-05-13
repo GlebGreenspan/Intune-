@@ -16,13 +16,7 @@ function Get-MSGraphAuthenticationToken {
     .EXAMPLE
         Get-MSGraphAuthenticationToken -TenantName domain.onmicrsoft.com -ClientID "<GUID>"
 
-    .NOTES
-    Author:      Nickolaj Andersen
-    Contact:     @NickolajA
-    Created:     2017-09-27
-    Updated:     2017-09-27
-
-    Version history:
+= Version history:
     1.0.0 - (2017-09-27) Script created
     1.0.1 - (2017-09-28) N/A - module manifest update
     1.0.2 - (2017-10-08) Added ExpiresOn property
