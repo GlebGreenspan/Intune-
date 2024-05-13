@@ -9,12 +9,6 @@
         $Scopes = "Group.ReadWrite.All", "Directory.ReadWrite.All"
         Connect-MgGraph -Scopes $Scopes
 
-    .NOTES
-        Author: Aaron Parker
-        Twitter: @stealthpuppy
-
-    .LINK
-        https://stealthpuppy.com
 #>
 [CmdletBinding(SupportsShouldProcess, ConfirmImpact = 'Low')]
 param (
