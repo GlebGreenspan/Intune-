@@ -12,13 +12,6 @@
     # Install all Visual C++ Redistributable applications defined in a JSON file published at a given URL:
     .\Install-VisualCRedist.ps1 -URL "https://<AzureStorageBlobUrl>"
 
-.NOTES
-    FileName:    Install-VisualCRedist.ps1
-    Author:      Nickolaj Andersen
-    Contact:     @NickolajA
-    Created:     2020-02-05
-    Updated:     2020-02-05
-
     Version history:
     1.0.0 - (2020-02-05) Script created
 #>
